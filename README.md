@@ -29,7 +29,7 @@ TypeScript is now in the top 10 most used languages across all regions GitHub co
 
 ![programming languages logo](logo.jpg)
 
-#####Image Referemce: [https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj6l_zK_KPkAhUSRqwKHQRvDZoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32858463098.html&psig=AOvVaw2b8i3ijNCfUu3b5sIVdjUb&ust=1567026980312996](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj6l_zK_KPkAhUSRqwKHQRvDZoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32858463098.html&psig=AOvVaw2b8i3ijNCfUu3b5sIVdjUb&ust=1567026980312996)
+##### Image Referemce: [https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj6l_zK_KPkAhUSRqwKHQRvDZoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32858463098.html&psig=AOvVaw2b8i3ijNCfUu3b5sIVdjUb&ust=1567026980312996](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj6l_zK_KPkAhUSRqwKHQRvDZoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32858463098.html&psig=AOvVaw2b8i3ijNCfUu3b5sIVdjUb&ust=1567026980312996)
 
 
 
