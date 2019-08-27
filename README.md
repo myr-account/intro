@@ -14,8 +14,10 @@ we're coding on GitHub in hundreds of programming languages, but JavaScript stil
 TypeScript is now in the top 10 most used languages across all regions GitHub contributors come from—and across private, public, and open source repositories.
 ## Recommended Resources
 ## Contributors
-Name: Yugandhar Mamidi
-Course: Applied Computer Science
+**Name**: Yugandhar Mamidi
+
+**Course**: Applied Computer Science
+
 ![rajini kanth](rajini1.jpg)
 
 
