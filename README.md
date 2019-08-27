@@ -16,6 +16,7 @@ TypeScript is now in the top 10 most used languages across all regions GitHub co
 ## Contributors
 Name: Yugandhar Mamidi
 Course: Applied Computer Science
+[rajini kanth](rajini1.jpg)
 
 
 
