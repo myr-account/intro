@@ -2,6 +2,7 @@
 ## Links
 * **Source Repository:** [https://github.com/yugimamidi/about-me](https://github.com/yugimamidi/about-me)
 * **Hosted Page:** [https://yugimamidi.github.io/about-me/](https://yugimamidi.github.io/about-me/)
+
 ## About
 This Repo is used to describe about the tools and different languages that can be used in GitHub to create web pages
 
@@ -10,7 +11,7 @@ GitHub is a great tool to store projects and to collaborate with others, but its
 
 There are many different ways to deploy a website to the public Internet. We’ll be using GitHub’s free service called GitHub Pages.
 
-**Markdown** is the mostly used syntax to edit in github pages, where we can give first level heading,second level heading upto six levels using #, In the same way there are many other representations for lists,links and blockquotes. refer [Basic Syntax | Markdown](https://www.markdownguide.org/basic-syntax/) for syntax
+**Markdown** is the mostly used syntax to edit in github pages, where we can give first level heading,second level heading upto six levels using #, In the same way there are many other representations for lists,links and blockquotes. refer ![Basic Syntax | Markdown](https://www.markdownguide.org/basic-syntax/) for syntax
 
 ### Refer: [https://www.codecademy.com/articles/f1-u3-github-pages](https://www.codecademy.com/articles/f1-u3-github-pages)
 
