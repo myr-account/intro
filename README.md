@@ -1,7 +1,7 @@
 # about-me
 ## Repository Links
-* [https://github.com/yugimamidi?tab=repositories](https://github.com/yugimamidi?tab=repositories)
-* [https://yugimamidi.github.io/cricket-champions/](https://yugimamidi.github.io/cricket-champions/)
+* [https://github.com/yugimamidi/about-me](https://github.com/yugimamidi/about-me)
+* [https://yugimamidi.github.io/about-me/](https://yugimamidi.github.io/about-me/)
 ## About
 This Repo is used to introduce to all my repositories 
 ## Recommended Tools
