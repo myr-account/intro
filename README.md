@@ -29,7 +29,7 @@ TypeScript is now in the top 10 most used languages across all regions GitHub co
 - [https://github.com/reactjs/react-tutorial](https://github.com/reactjs/react-tutorial)
 
 ## Contributors
-**Name**: Yugandhar Mamidi
+**Name**: Yugandhar Mamidi, 
 **Course**: Applied Computer Science
 
 ![programming languages logo](logo.jpg)
