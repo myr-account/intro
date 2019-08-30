@@ -14,6 +14,13 @@ There are many different ways to deploy a website to the public Internet. We’l
 **Markdown** is the mostly used syntax to edit in github pages, where we can give first level heading,second level heading upto six levels using #, In the same way there are many other representations for lists,links and blockquotes.
 refer [Basic Syntax Markdown](https://www.markdownguide.org/basic-syntax/) for syntax
 
+The following are the recommended tools for GitHub,
+
+* [Codefactor](https://github.com/marketplace/codefactor)
+* [Imgbot](https://github.com/marketplace/imgbot)
+* [Code-Climate](https://github.com/marketplace/code-climate)
+* [Zube](https://github.com/marketplace/zube)
+
 ### Refer: [https://www.codecademy.com/articles/f1-u3-github-pages](https://www.codecademy.com/articles/f1-u3-github-pages)
 
 ### Languages
