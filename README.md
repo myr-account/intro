@@ -27,9 +27,9 @@ TypeScript is now in the top 10 most used languages across all regions GitHub co
 - [https://github.com/MilanAryal/web-development-resources](https://github.com/MilanAryal/web-development-resources)
 - [https://github.com/alphadsy/w3schools-templates-using-Bootstrap](https://github.com/alphadsy/w3schools-templates-using-Bootstrap)
 - [https://github.com/reactjs/react-tutorial](https://github.com/reactjs/react-tutorial)
+
 ## Contributors
 **Name**: Yugandhar Mamidi
-
 **Course**: Applied Computer Science
 
 ![programming languages logo](logo.jpg)
