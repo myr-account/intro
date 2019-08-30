@@ -1,7 +1,7 @@
 # about-me
-## Repository Links
-* [https://github.com/yugimamidi/about-me](https://github.com/yugimamidi/about-me)
-* [https://yugimamidi.github.io/about-me/](https://yugimamidi.github.io/about-me/)
+## Links
+* **Source Repository:** [https://github.com/yugimamidi/about-me](https://github.com/yugimamidi/about-me)
+* **Hosted Page:** [https://yugimamidi.github.io/about-me/](https://yugimamidi.github.io/about-me/)
 ## About
 This Repo is used to introduce to all my repositories 
 ## Recommended Tools
