@@ -4,7 +4,7 @@
 * **Hosted Page:** [https://yugimamidi.github.io/about-me/](https://yugimamidi.github.io/about-me/)
 
 ## About
-This Repo is used to describe about the tools and different languages that can be used in GitHub to create web pages
+This Page is used to describe about the tools and different languages that can be used in GitHub to create web pages
 
 ## Recommended Tools
 GitHub is a great tool to store projects and to collaborate with others, but its usefulness does not stop there. We’ll use a service called GitHub Pages to share our web page creations on the World Wide Web.
