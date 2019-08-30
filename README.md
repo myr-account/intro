@@ -24,6 +24,8 @@ TypeScript is now in the top 10 most used languages across all regions GitHub co
 ### Refer: [https://octoverse.github.com/projects.html](https://octoverse.github.com/projects.html)
 
 ## Recommended Resources
+To create web application related projects kindly refer to the following links
+
 - [https://github.com/MilanAryal/web-development-resources](https://github.com/MilanAryal/web-development-resources)
 - [https://github.com/alphadsy/w3schools-templates-using-Bootstrap](https://github.com/alphadsy/w3schools-templates-using-Bootstrap)
 - [https://github.com/reactjs/react-tutorial](https://github.com/reactjs/react-tutorial)
