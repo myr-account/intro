@@ -21,14 +21,14 @@ The following are the recommended tools for GitHub,
 * [Code-Climate](https://github.com/marketplace/code-climate)
 * [Zube](https://github.com/marketplace/zube)
 
-### Reference: [https://www.codecademy.com/articles/f1-u3-github-pages](https://www.codecademy.com/articles/f1-u3-github-pages)
+**Reference:** [https://www.codecademy.com/articles/f1-u3-github-pages](https://www.codecademy.com/articles/f1-u3-github-pages)
 
 ### Languages
 The languages used are Ruby,JavaScript,Java,Python,PHP,C,C++,C#,TypeScript,Shell
 we're coding on GitHub in hundreds of programming languages, but JavaScript still has the most contributors in public and private repositories, organizations of all sizes, and every region of the world
 TypeScript is now in the top 10 most used languages across all regions GitHub contributors come from—and across private, public, and open source repositories.
 
-### Reference: [https://octoverse.github.com/projects.html](https://octoverse.github.com/projects.html)
+**Reference:** [https://octoverse.github.com/projects.html](https://octoverse.github.com/projects.html)
 
 ## Recommended Resources
 To create web application related projects kindly refer to the following links
